@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T08:47:17.248Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="g9WhzwiupE4oM0Z7oZY2" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-23T09:02:14.962Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="byT588V0m0yWctRwqJbX" version="20.0.1" type="github">
   <diagram id="puESU1Xp0VZ92eHGtiXO" name="全行名單流程">
     <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -155,7 +155,7 @@
         <mxCell id="5WM7OzFjDkamJJKNZSvt-15" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;1.申請campaign&lt;br&gt;2.提出排程預約&lt;br&gt;及母體篩選條件&lt;br&gt;3.申請通路資訊&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=17;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;rounded=1;dashed=1;dashPattern=1 1;" parent="w_BIVJK4_qSYrG3gyEWa-7" vertex="1">
           <mxGeometry x="80" y="7" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="5WM7OzFjDkamJJKNZSvt-5" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;是否透過&lt;br&gt;UNICA發送?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=17;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;rounded=1;dashed=1;dashPattern=1 1;" parent="w_BIVJK4_qSYrG3gyEWa-7" vertex="1">
+        <mxCell id="5WM7OzFjDkamJJKNZSvt-5" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;是否透過&lt;br&gt;UNICA發送?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=17;fillColor=#FF6666;strokeColor=#457B9D;fontColor=#1D3557;rounded=1;dashed=1;dashPattern=1 1;" parent="w_BIVJK4_qSYrG3gyEWa-7" vertex="1">
           <mxGeometry x="-47" y="22" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5WM7OzFjDkamJJKNZSvt-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;jumpSize=13;strokeWidth=5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="w_BIVJK4_qSYrG3gyEWa-7" source="5WM7OzFjDkamJJKNZSvt-5" target="5WM7OzFjDkamJJKNZSvt-15" edge="1">
@@ -174,7 +174,7 @@
         <mxCell id="5WM7OzFjDkamJJKNZSvt-79" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;提供通路設定截圖&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=17;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;rounded=1;dashed=1;dashPattern=1 1;" parent="w_BIVJK4_qSYrG3gyEWa-8" vertex="1">
           <mxGeometry x="-143" y="32" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5lU_nhnVXa3-YzZA6gmE-12" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;是否過GCF?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=17;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;rounded=1;dashed=1;dashPattern=1 1;" vertex="1" parent="w_BIVJK4_qSYrG3gyEWa-8">
+        <mxCell id="5lU_nhnVXa3-YzZA6gmE-12" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;是否過GCF?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=17;fillColor=#FF6666;strokeColor=#457B9D;fontColor=#1D3557;rounded=1;dashed=1;dashPattern=1 1;shadow=0;" vertex="1" parent="w_BIVJK4_qSYrG3gyEWa-8">
           <mxGeometry x="127.5" y="117" width="90" height="74" as="geometry" />
         </mxCell>
         <mxCell id="w_BIVJK4_qSYrG3gyEWa-9" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=#B9E0A5;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;rounded=1;fontColor=#1D3557;strokeColor=#457B9D;dashed=1;dashPattern=1 1;" parent="w_BIVJK4_qSYrG3gyEWa-6" vertex="1">
@@ -224,7 +224,7 @@
             <mxPoint x="250" y="62" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w_BIVJK4_qSYrG3gyEWa-17" style="shape=tableRow;horizontal=0;startSize=100;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=#e1d5e7;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;rounded=1;strokeColor=#333333;dashed=1;dashPattern=1 1;swimlaneFillColor=#E1D5E7;opacity=50;gradientColor=none;" parent="UMTA41j7bZhNf6njEWew-1" vertex="1">
+        <mxCell id="w_BIVJK4_qSYrG3gyEWa-17" style="shape=tableRow;horizontal=0;startSize=100;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=#e1d5e7;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;rounded=1;strokeColor=#333333;dashed=1;dashPattern=1 1;swimlaneFillColor=#E1D5E7;opacity=30;gradientColor=none;" parent="UMTA41j7bZhNf6njEWew-1" vertex="1">
           <mxGeometry y="386" width="2250" height="243" as="geometry" />
         </mxCell>
         <mxCell id="5WM7OzFjDkamJJKNZSvt-11" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;rounded=1;fontColor=#1D3557;strokeColor=#457B9D;dashed=1;dashPattern=1 1;" parent="w_BIVJK4_qSYrG3gyEWa-17" vertex="1">
@@ -523,8 +523,11 @@
             <mxPoint x="1860" y="547" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5lU_nhnVXa3-YzZA6gmE-38" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 217, 102);&quot;&gt;待討論：&lt;br&gt;1.目前未透過UNICA發送之名單，是否仍有未列出之情境？&lt;br&gt;2.未透過UNICA發送之名單，有可能未過GCF，該由誰控管？如何控管&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=13;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="159.5" y="1035" width="570" height="60" as="geometry" />
+        <mxCell id="5lU_nhnVXa3-YzZA6gmE-38" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;&quot;&gt;待討論或釐清：&lt;br&gt;1.目前未透過UNICA發送之名單，是否仍有未列出之情境？&lt;br&gt;2.未透過UNICA發送之名單，有可能未過GCF，該由誰控管？如何控管？&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=13;opacity=50;labelBackgroundColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="159.5" y="1170" width="590" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5lU_nhnVXa3-YzZA6gmE-39" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;span style=&quot;&quot;&gt;現況：&lt;br style=&quot;&quot;&gt;1.發送至行銀推播及綜合對帳單會由非UNICA控管GCF&lt;br style=&quot;&quot;&gt;2.發送至&lt;span style=&quot;color: rgb(29, 53, 87); text-align: center;&quot;&gt;MARS、&lt;/span&gt;&lt;span style=&quot;color: rgb(29, 53, 87); text-align: center;&quot;&gt;Mail Hunter、&lt;/span&gt;&lt;span style=&quot;color: rgb(29, 53, 87); text-align: center;&quot;&gt;分行個人及信箱&lt;/span&gt;&lt;span style=&quot;color: rgb(29, 53, 87); text-align: center;&quot;&gt;WISE，有可能不透過UNICA發送，故有可能不過GCF&lt;br style=&quot;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(29, 53, 87); text-align: center;&quot;&gt;3.未來欲直接上傳SMS及EDM至B08發送，需經過申請&lt;br&gt;4.發送至&lt;/span&gt;&lt;span style=&quot;color: rgb(29, 53, 87); text-align: center;&quot;&gt;Firebase&lt;/span&gt;&lt;span style=&quot;color: rgb(29, 53, 87); text-align: center;&quot;&gt;(cloud messaging)、&lt;/span&gt;&lt;span style=&quot;color: rgb(29, 53, 87); text-align: center;&quot;&gt;Firebase&lt;/span&gt;&lt;span style=&quot;color: rgb(29, 53, 87); text-align: center;&quot;&gt;(in-app messaging)、&lt;/span&gt;&lt;span style=&quot;color: rgb(29, 53, 87); text-align: center;&quot;&gt;行銀banner及&lt;/span&gt;&lt;span style=&quot;color: rgb(29, 53, 87); text-align: center;&quot;&gt;LINE(OA群發廣告訊息)，不會過GCF&lt;/span&gt;&lt;span style=&quot;color: rgb(29, 53, 87); font-size: 12px; text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;opacity=50;labelBackgroundColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="159.5" y="1020" width="1020" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
