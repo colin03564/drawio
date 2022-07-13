@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-08T07:24:53.752Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="uYETUwiaf1XavBputukY" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-13T09:43:05.077Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="LQGKI7k4AJreEv0DMswM" version="20.0.4" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1408" dy="1648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="60e70716793133e9-5" value="全部項目都正常" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="220" y="-543" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KnLaKp3uKIQBUWNTWZ8N-3" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="rSqbwyXY5E-z53X81SUt-1" target="KnLaKp3uKIQBUWNTWZ8N-2">
+        <mxCell id="KnLaKp3uKIQBUWNTWZ8N-3" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" source="rSqbwyXY5E-z53X81SUt-1" target="KnLaKp3uKIQBUWNTWZ8N-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rSqbwyXY5E-z53X81SUt-1" value="每日進行檢核" style="ellipse;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
@@ -141,12 +141,14 @@
             <mxPoint x="420" y="-93" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KnLaKp3uKIQBUWNTWZ8N-1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="rSqbwyXY5E-z53X81SUt-51" target="rSqbwyXY5E-z53X81SUt-65">
+        <mxCell id="KnLaKp3uKIQBUWNTWZ8N-1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="270" y="41" />
               <mxPoint x="465" y="41" />
             </Array>
+            <mxPoint x="270" y="-63" as="sourcePoint" />
+            <mxPoint x="609" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rSqbwyXY5E-z53X81SUt-51" value="項目6不正常" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
@@ -184,10 +186,10 @@
         <mxCell id="rSqbwyXY5E-z53X81SUt-68" value="No" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=12;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="280" y="-53" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KnLaKp3uKIQBUWNTWZ8N-4" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="KnLaKp3uKIQBUWNTWZ8N-2" target="60e70716793133e9-5">
+        <mxCell id="KnLaKp3uKIQBUWNTWZ8N-4" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" source="KnLaKp3uKIQBUWNTWZ8N-2" target="60e70716793133e9-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KnLaKp3uKIQBUWNTWZ8N-2" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;UNICA環境是否能正常登入&lt;/span&gt;&lt;/li&gt;&lt;li&gt;EBM T-2資料庫更新完成&lt;/li&gt;&lt;li&gt;UNICA夜間批次是否完成&lt;/li&gt;&lt;li&gt;UNICA 排除條件檢核&lt;/li&gt;&lt;li&gt;每週一資料源更新完成&lt;/li&gt;&lt;li&gt;Monitoring stopped狀態確認&lt;/li&gt;&lt;li&gt;Inbound 通路是否正常&lt;/li&gt;&lt;li&gt;SAS或已知之通路系統是否異常&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;align=left;" vertex="1" parent="1">
+        <mxCell id="KnLaKp3uKIQBUWNTWZ8N-2" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;UNICA環境是否能正常登入&lt;/span&gt;&lt;/li&gt;&lt;li&gt;EBM T-2資料庫更新完成&lt;/li&gt;&lt;li&gt;UNICA夜間批次是否完成&lt;/li&gt;&lt;li&gt;UNICA 排除條件檢核&lt;/li&gt;&lt;li&gt;每週一資料源更新完成&lt;/li&gt;&lt;li&gt;Monitoring stopped狀態確認&lt;/li&gt;&lt;li&gt;Inbound 通路是否正常&lt;/li&gt;&lt;li&gt;SAS或已知之通路系統是否異常&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;align=left;" parent="1" vertex="1">
           <mxGeometry x="165" y="-740" width="210" height="130" as="geometry" />
         </mxCell>
       </root>
